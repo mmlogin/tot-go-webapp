@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"gopkg.in/gin-gonic/gin.v1"
+	"github.com/gin-gonic/gin"
 )
 
 func getList(tmuxPath string, cmd string) []string {
