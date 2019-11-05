@@ -33,7 +33,7 @@ Same golang web application for [*The Tao of tmux and Terminal Tricks*](https://
 Grab project and go dependencies:
 
 ```bash
-$ go get -u github.com/tony/tot-go-webapp
+$ go get -u github.com/mmlogin/tot-go-webapp
 ```
 
 Install CSS dependencies (from project dir):
